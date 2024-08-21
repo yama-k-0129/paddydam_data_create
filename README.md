@@ -24,6 +24,7 @@
 python main.py
 ```
 落水線を辿った排水ポイントまでの距離をそれぞれの田んぼから算出
+![イメージ](https://github.com/user-attachments/assets/dc9346ea-9cde-4d1c-8f05-ca555f6bd2d7)
 
 3. 出力されるファイル:
 - pqout.csv
