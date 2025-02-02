@@ -1,0 +1,18 @@
+# config.yml
+paths:
+  input:
+    base_dir: "input"
+    mesh: "mesh.shp"
+    paddy: "paddy.shp"
+    catchment: "area3.shp"
+    raster: "water_line3.tif"
+  
+  output:
+    base_dir: "out"
+    mesh_data: "mesh_data.csv"
+    rakusui_points: "等間隔落水線ポイント.csv"
+    final_output: "pqout.csv"
+
+# 必要に応じて他の設定パラメータを追加可能
+parameters:
+  encoding: "utf-8"
